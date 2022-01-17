@@ -16,4 +16,4 @@ Treinar um modelo NLP que extraia de recibos de pagamentos palavras chaves e seu
 
 ## Notas
 
-- O dataset está disponível publicamente pelo Robust Reasding, sendo necessário apenas uma criar uma conta no site
+- O dataset está disponível publicamente na tarefa SRIOE, sendo necessário apenas criar uma conta no site
