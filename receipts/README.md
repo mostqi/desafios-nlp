@@ -11,7 +11,7 @@ Treinar um modelo NLP que extraia de recibos de pagamentos palavras chaves e seu
 
 ## Extras
 
-- Treinar um segunda framework para treinar um segundo modelo no dataset da tarefa 3 do desafio SROIE 
+- Treinar um segundo framework para treinar um segundo modelo no dataset da tarefa 3 do desafio SROIE 
 - Comparar os resultado com os obtidos pelo primeiro modelo e explicar o porquê da diferença
 
 ## Notas
