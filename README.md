@@ -1,6 +1,6 @@
 # Desafio mostQi
 
-Segue abaixos os itens do Desafio mostQi para os candidados à vaga de Engenenheiro em ML na área de NLP
+Segue abaixos os itens do Desafio mostQi para os candidados à vaga de Engenheiro em ML na área de NLP
 
 1. [Conhecimentos básicos](./basic-knowledge/README.md)
 2. [Rebibos de pagamentos](./receipts/README.md)
