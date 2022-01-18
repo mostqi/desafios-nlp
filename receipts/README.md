@@ -2,7 +2,7 @@
 
 ## Objetivo
 
-Treinar um modelo NLP que extraia de recibos de pagamentos palavras chaves e seus respectivos valores.
+Treinar um modelo NLP que extraia de recibos de pagamentos, as palavras chaves e seus respectivos valores.
 
 ## Tarefas
 
