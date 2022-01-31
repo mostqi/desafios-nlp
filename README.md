@@ -7,7 +7,7 @@ Segue abaixos os itens do Desafio mostQi para os candidados à vaga de Engenheir
 
 ## Instruções
 
-Você deve realizar o fork deste projeto e fazer o push no seu próprio repositório. Este desafio deverá ser mantido em modo privado.
+Você deve realizar o fork deste projeto e fazer o push no seu próprio repositório.
 
 A implementação deve ficar na pasta correspondente ao desafio. Fique à vontade para adicionar qualquer tipo de conteúdo que julgue útil ao projeto, alterar/acrescentar um README com instruções de como executá-lo, etc.
 
