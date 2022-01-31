@@ -1,4 +1,4 @@
-# Desafio mostQi
+# Desafio mostQI
 
 Segue abaixos os itens do Desafio mostQi para os candidados à vaga de Engenheiro em ML na área de NLP
 
@@ -15,6 +15,6 @@ A implementação deve ficar na pasta correspondente ao desafio. Fique à vontad
 
 Os desafios serão apresentados em data e hora combinados previamente por email.
 
-## mostQi
+## mostQI
 
 Acesse nosso [linkedin](https://www.linkedin.com/company/mobile-solution-technology/posts/?feedView=all) para mais informações sobre vagas e novidades.
